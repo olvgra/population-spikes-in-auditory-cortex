@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+.venv.bak/
+
+__pycache__/
+*.py[cod]
+*$py.class
